@@ -1,0 +1,22 @@
+{
+  "name": "alikibao",
+  "owner": {
+    "name": "Ali Kibao",
+    "url": "https://github.com/alikibao"
+  },
+  "description": "Ali Kibao's skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "alikibao-skills",
+      "source": "./",
+      "description": "Agent skills for naming businesses and building products people love.",
+      "category": "productivity",
+      "keywords": [
+        "skills",
+        "naming",
+        "branding",
+        "product"
+      ]
+    }
+  ]
+}
