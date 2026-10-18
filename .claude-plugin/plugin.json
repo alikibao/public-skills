@@ -1,12 +1,13 @@
 {
   "name": "alikibao-skills",
   "version": "1.0.0",
-  "description": "Ali Kibao's agent skills for naming businesses and building products people love.",
+  "description": "Ali Kibao's agent skills for naming businesses, building products people love and putting AI to work in a business.",
   "author": {
     "name": "Ali Kibao",
     "url": "https://github.com/alikibao"
   },
   "repository": "https://github.com/alikibao/public-skills",
+  "license": "MIT-0",
   "keywords": [
     "skills",
     "naming",
@@ -17,6 +18,7 @@
   ],
   "skills": [
     "./skills/branding/business-naming",
+    "./skills/business/mission",
     "./skills/product/hit-products"
   ]
 }
